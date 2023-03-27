@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/tekton.dev/v1beta1@task": "file:///Users/mmcneill/Git/gitops/rosa-workshop-app/pipeline/tasks/1-git-clone.yaml"
+    }
+}
